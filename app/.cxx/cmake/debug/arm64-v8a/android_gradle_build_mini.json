@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "E:\\Android_Project\\InsectIdentification\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libyolov5ncnn.so"
+    }
+  }
+}

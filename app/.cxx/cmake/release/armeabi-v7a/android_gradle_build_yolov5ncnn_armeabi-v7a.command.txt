@@ -1,0 +1,7 @@
+Executable : E:\android-sdk-windows\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\Android_Project\InsectIdentification\app\.cxx\cmake\release\armeabi-v7a
+yolov5ncnn
+jvmArgs : 
+

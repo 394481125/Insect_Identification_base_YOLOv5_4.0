@@ -1,0 +1,54 @@
+{
+  "stringTable": {
+    "0": "E:/Android_Project/InsectIdentification/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=E:/android-sdk-windows/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/android-sdk-windows/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov5ncnn_EXPORTS -isystem E:/Android_Project/InsectIdentification/app/src/main/jni/armeabi-v7a/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\android.toolchain.cmake",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\compiler_id.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\android-sdk-windows\\ndk\\22.1.7171670\\build\\cmake\\platforms.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-armeabi-v7a": {
+      "buildCommand": "E:\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" yolov5ncnn",
+      "buildType": "debug",
+      "toolchain": "1569942289",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov5ncnn",
+      "files": [
+        {
+          "src": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\Android_Project\\InsectIdentification\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libyolov5ncnn.so"
+    }
+  },
+  "toolchains": {
+    "1569942289": {
+      "cppCompilerExecutable": "E:\\android-sdk-windows\\ndk\\22.1.7171670\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

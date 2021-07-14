@@ -1,0 +1,20 @@
+# ninja log v5
+0	10	0	clean	90245fa37c44684a
+0	1132	647887399	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1135	2928	647887401	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	12	0	clean	90245fa37c44684a
+2	1047	647888153	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1047	1218	647888153	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	10	0	clean	90245fa37c44684a
+2	1160	647893406	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1160	2504	647893407	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	12	0	clean	90245fa37c44684a
+2	1100	647893899	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1101	2392	647893900	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	11	0	clean	90245fa37c44684a
+2	1094	647894188	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1094	2406	647894189	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	12	0	clean	90245fa37c44684a
+2	1060	647933092	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	a56ee533d173b364
+1060	2348	647933094	E:/Android_Project/InsectIdentification/app/build/intermediates/cmake/release/obj/arm64-v8a/libyolov5ncnn.so	26988703be4d385f
+0	10	0	clean	90245fa37c44684a

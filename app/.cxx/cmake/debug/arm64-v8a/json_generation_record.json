@@ -1,0 +1,38 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027E:\\android-sdk-windows\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027E:\\Android_Project\\InsectIdentification\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\Android_Project\\InsectIdentification\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]
